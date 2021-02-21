@@ -1,0 +1,7 @@
+2017-06-10 15:06:55 log.py[line:17] INFO hi
+2017-06-10 15:06:55 log.py[line:21] WARNING gloryroad!
+2017-06-10 15:09:52 log.py[line:17] INFO hi
+2017-06-10 15:09:52 log.py[line:21] ERROR gloryroad!
+2017-06-10 15:10:39 log.py[line:17] INFO hi
+2017-06-10 15:10:39 log.py[line:13] ERROR world!
+2017-06-10 15:10:39 log.py[line:21] WARNING gloryroad!
